@@ -100,5 +100,6 @@
   	<module>ssh-web</module>
   	<module>01_maven_ssh-dao</module>
   	<module>01_maven_ssh_service</module>
+  	<module>01_maven_ssh-web</module>
   </modules>
 </project>
